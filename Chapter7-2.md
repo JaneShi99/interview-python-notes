@@ -38,3 +38,7 @@ very smart algorithm. has a tmp s.t.
 sublist_iter.next = temp.next
 
 sublist.head.next = temp
+
+
+
+https://www.geeksforgeeks.org/reverse-a-linked-list/
